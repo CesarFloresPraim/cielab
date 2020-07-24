@@ -1,11 +1,5 @@
 {
-  "name": "cielab-website",
-  "version": "1.0.0",
-  "description": "Single website for cielab",
-  "main": "index.php",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Cesar Flores",
-  "license": "ISC"
-}
+    "require": {
+    
+    }
+  }
