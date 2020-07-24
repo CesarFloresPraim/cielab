@@ -1,0 +1,14 @@
+{
+    "name": "cesarflorespraim/cielab",
+    "description": "Website for cielab",
+    "type": "project",
+    "require": {
+        "php": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "Cesar",
+            "email": "cesar_florespal@outlook.com"
+        }
+    ]
+}
